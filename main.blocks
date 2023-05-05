@@ -11,9 +11,9 @@
         . # # # . 
         # . . . #
         `</field><next><block type="device_pause" id="@]gh8W+slA7hIhYM(X*("><value name="pause"><shadow type="timePicker" id="%_+:1=73fb$DHc7ZQ/n3"><field name="ms">200</field></shadow></value></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="BD2i?p4~{R4WuvUS7#~9" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="p9TOt:DiN$%[`:cX}OeX"><field name="LEDS">`
-        . . . . # 
-        . . . # . 
         . . . . . 
-        . # . . . 
-        # . . . .
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
         `</field><next><block type="device_pause" id="#IwrxlDhjcqaW*:b[rF("><value name="pause"><shadow type="timePicker" id="/CbqXicRM|x~J:Mdvg3`"><field name="ms">1000</field></shadow></value></block></next></block></statement></block></xml>
